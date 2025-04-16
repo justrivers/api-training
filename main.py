@@ -2,4 +2,7 @@
 import pandas as pd
 import datetime as dt
 
+# Comment
+
+full_data = []
 
